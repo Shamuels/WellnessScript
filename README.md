@@ -13,3 +13,6 @@ Type=Application\
 Comment=\
 Exec="pathtowellness.sh" **Ensure the script is executable with chmod+x**\
 Terminal=true
+
+## Dependencies
+VLC is required for the script to actually play the videos.
